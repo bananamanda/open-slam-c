@@ -1,0 +1,40 @@
+           5 waypoints        5 landmarks
+          11 ms     16.1 %    unknown
+           0 ms      0.1 %    startup
+          54 ms     73.9 %    predict
+           0 ms      0.3 %    get_observations
+           5 ms      7.1 %    compute_weights
+           1 ms      2.5 %    resample
+          74 ms    100.0 %    elapsed
+           5 waypoints        5 landmarks
+          12 ms     16.4 %    unknown
+           0 ms      0.3 %    startup
+          56 ms     73.4 %    predict
+           0 ms      0.3 %    get_observations
+           5 ms      7.2 %    compute_weights
+           1 ms      2.4 %    resample
+          76 ms    100.0 %    elapsed
+           5 waypoints        5 landmarks
+          12 ms     16.6 %    unknown
+           0 ms      0.3 %    startup
+          56 ms     73.2 %    predict
+           0 ms      0.3 %    get_observations
+           5 ms      7.2 %    compute_weights
+           1 ms      2.4 %    resample
+          77 ms    100.0 %    elapsed
+           5 waypoints        5 landmarks
+          12 ms     16.2 %    unknown
+           0 ms      0.3 %    startup
+          56 ms     73.3 %    predict
+           0 ms      0.3 %    get_observations
+           5 ms      7.4 %    compute_weights
+           1 ms      2.5 %    resample
+          76 ms    100.0 %    elapsed
+           5 waypoints        5 landmarks
+          12 ms     16.2 %    unknown
+           0 ms      0.3 %    startup
+          57 ms     73.8 %    predict
+           0 ms      0.3 %    get_observations
+           5 ms      7.1 %    compute_weights
+           1 ms      2.4 %    resample
+          78 ms    100.0 %    elapsed

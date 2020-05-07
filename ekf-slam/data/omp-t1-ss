@@ -1,0 +1,35 @@
+           5 waypoints        5 landmarks
+           4 ms      3.1 %    unknown
+           0 ms      0.1 %    startup
+          17 ms     11.0 %    predict
+           7 ms      5.0 %    get_observations
+         126 ms     80.9 %    update
+         156 ms    100.0 %    elapsed
+           5 waypoints        5 landmarks
+           4 ms      2.9 %    unknown
+           0 ms      0.1 %    startup
+          19 ms     12.2 %    predict
+           7 ms      4.8 %    get_observations
+         128 ms     80.0 %    update
+         160 ms    100.0 %    elapsed
+           5 waypoints        5 landmarks
+           4 ms      2.9 %    unknown
+           0 ms      0.1 %    startup
+          19 ms     12.3 %    predict
+           7 ms      4.8 %    get_observations
+         129 ms     79.9 %    update
+         161 ms    100.0 %    elapsed
+           5 waypoints        5 landmarks
+           4 ms      3.1 %    unknown
+           0 ms      0.1 %    startup
+          20 ms     13.0 %    predict
+           7 ms      4.9 %    get_observations
+         125 ms     79.0 %    update
+         158 ms    100.0 %    elapsed
+           5 waypoints        5 landmarks
+           4 ms      2.9 %    unknown
+           0 ms      0.1 %    startup
+          19 ms     12.4 %    predict
+           7 ms      4.8 %    get_observations
+         128 ms     79.8 %    update
+         161 ms    100.0 %    elapsed
